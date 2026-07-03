@@ -231,7 +231,7 @@ public:
 private:
     double sampleRate = 44100.0;
 
-    float decay = 2.5f;
+    float decay = 5.0f;
     float predelay = 20.0f;
     float size = 0.5f;
     float width = 1.0f;

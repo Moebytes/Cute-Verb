@@ -1,0 +1,19 @@
+{
+  "plugin": "Cute Verb",
+  "version": "1.0.0",
+  "name": "Long Reverb",
+  "author": "Moebytes",
+  "modified": "2026-07-03T02:44:27.873-04:00",
+  "presetFormat": 1,
+  "parameters": {
+    "mix": "62%",
+    "decay": "8.64s",
+    "predelay": "67ms",
+    "size": "79%",
+    "width": "120%",
+    "damping": "29%",
+    "diffusion": "75%",
+    "lowcut": "200Hz",
+    "highcut": "20000Hz"
+  }
+}

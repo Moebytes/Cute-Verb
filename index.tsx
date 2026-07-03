@@ -2,7 +2,7 @@ import React, {useState, useEffect} from "react"
 import {createRoot} from "react-dom/client"
 import Knob from "./components/Knob"
 import SkewKnob from "./components/SkewKnob"
-import BigSkewKnob from "./components/BigSkewKnob"
+import BigKnob from "./components/BigKnob"
 import PresetBar from "./components/PresetBar"
 import DarkIcon from "./assets/dark.svg"
 import LightIcon from "./assets/light.svg"
@@ -64,7 +64,7 @@ const App: React.FunctionComponent = () => {
                         color="#FF4EA7"/>
                 </div>
                 <div className="big-column-container">
-                    <BigSkewKnob
+                    <BigKnob
                         label={parameters.decay.id.toUpperCase()}
                         parameterID={parameters.decay.id}
                         color="#FF4EA7"/>

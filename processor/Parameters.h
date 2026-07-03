@@ -24,7 +24,7 @@ public:
     float mix = 0.5f;
     AudioParameterFloat* mixParam;
 
-    float decay = 2.5f;
+    float decay = 5.0f;
     AudioParameterFloat* decayParam;
 
     float predelay = 20.0f;

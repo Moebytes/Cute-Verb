@@ -61,7 +61,7 @@ auto Parameters::createParameterLayout() -> AudioProcessorValueTreeState::Parame
     ));
 
     layout.add(std::make_unique<AudioParameterFloat>(
-        paramIDs.decay, "Decay", NormalisableRange<float>{0.1f, 10.0f, 0.01f, 0.5f}, 2.5f,
+        paramIDs.decay, "Decay", NormalisableRange<float>{0.1f, 10.0f, 0.01f}, 5.0f,
         AudioParameterFloatAttributes().withStringFromValueFunction(Functions::displaySeconds)
         .withValueFromStringFunction(Functions::parseSeconds)
     ));
