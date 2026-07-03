@@ -1,0 +1,19 @@
+{
+  "plugin": "Cute Verb",
+  "version": "1.0.0",
+  "name": "Slight Touch",
+  "author": "Moebytes",
+  "modified": "2026-07-03T01:16:09.937-04:00",
+  "presetFormat": 1,
+  "parameters": {
+    "mix": "35%",
+    "decay": "2.67s",
+    "predelay": "17ms",
+    "size": "54%",
+    "width": "92%",
+    "damping": "50%",
+    "diffusion": "57%",
+    "lowcut": "200Hz",
+    "highcut": "20000Hz"
+  }
+}

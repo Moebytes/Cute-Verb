@@ -1,0 +1,19 @@
+{
+  "plugin": "Cute Verb",
+  "version": "1.0.0",
+  "name": "6 second Decay Bandcut",
+  "author": "Moebytes",
+  "modified": "2026-07-03T01:21:34.472-04:00",
+  "presetFormat": 1,
+  "parameters": {
+    "mix": "60%",
+    "decay": "6.29s",
+    "predelay": "32ms",
+    "size": "91%",
+    "width": "176%",
+    "damping": "19%",
+    "diffusion": "100%",
+    "lowcut": "944Hz",
+    "highcut": "1169Hz"
+  }
+}

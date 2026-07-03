@@ -1,0 +1,19 @@
+{
+  "plugin": "Cute Verb",
+  "version": "1.0.0",
+  "name": "5 second Decay Predelay",
+  "author": "Moebytes",
+  "modified": "2026-07-03T01:22:53.940-04:00",
+  "presetFormat": 1,
+  "parameters": {
+    "mix": "50%",
+    "decay": "5.25s",
+    "predelay": "188ms",
+    "size": "61%",
+    "width": "104%",
+    "damping": "30%",
+    "diffusion": "70%",
+    "lowcut": "200Hz",
+    "highcut": "20000Hz"
+  }
+}

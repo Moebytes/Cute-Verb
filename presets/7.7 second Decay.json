@@ -1,0 +1,19 @@
+{
+  "plugin": "Cute Verb",
+  "version": "1.0.0",
+  "name": "7.7 second Decay",
+  "author": "Moebytes",
+  "modified": "2026-07-03T01:15:34.258-04:00",
+  "presetFormat": 1,
+  "parameters": {
+    "mix": "54%",
+    "decay": "7.72s",
+    "predelay": "19ms",
+    "size": "36%",
+    "width": "166%",
+    "damping": "24%",
+    "diffusion": "71%",
+    "lowcut": "200Hz",
+    "highcut": "20000Hz"
+  }
+}

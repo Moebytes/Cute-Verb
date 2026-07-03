@@ -1,0 +1,19 @@
+{
+  "plugin": "Cute Verb",
+  "version": "1.0.0",
+  "name": "Drowning in Verb",
+  "author": "Moebytes",
+  "modified": "2026-07-03T01:17:27.268-04:00",
+  "presetFormat": 1,
+  "parameters": {
+    "mix": "63%",
+    "decay": "9.03s",
+    "predelay": "17ms",
+    "size": "69%",
+    "width": "139%",
+    "damping": "15%",
+    "diffusion": "24%",
+    "lowcut": "200Hz",
+    "highcut": "20000Hz"
+  }
+}

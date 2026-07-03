@@ -1,0 +1,19 @@
+{
+  "plugin": "Cute Verb",
+  "version": "1.0.0",
+  "name": "Comb Filter Like",
+  "author": "Moebytes",
+  "modified": "2026-07-03T01:13:36.964-04:00",
+  "presetFormat": 1,
+  "parameters": {
+    "mix": "52%",
+    "decay": "2.59s",
+    "predelay": "20ms",
+    "size": "100%",
+    "width": "191%",
+    "damping": "27%",
+    "diffusion": "100%",
+    "lowcut": "200Hz",
+    "highcut": "20000Hz"
+  }
+}

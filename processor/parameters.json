@@ -1,0 +1,11 @@
+{
+    "mix": {"id": "mix", "version": 1},
+    "decay": {"id": "decay", "version": 1},
+    "predelay": {"id": "predelay", "version": 1},
+    "size": {"id": "size", "version": 1},
+    "width": {"id": "width", "version": 1},
+    "damping": {"id": "damping", "version": 1},
+    "diffusion": {"id": "diffusion", "version": 1},
+    "lowcut": {"id": "lowcut", "version": 1},
+    "highcut": {"id": "highcut", "version": 1}
+}
