@@ -16,11 +16,11 @@ Cute Verb is a VST plugin for reverb (hall reflection) effects.
 - Highcut - Applies a lowpass filter to the reverbed signal.
 
 The reverb sounds... passable, although it might sound too much like comb filters. I might improve the algorithm 
-in the future but it's a simple implementation of comb filters fed into allpass filters
+in the future but it's a simple implementation of comb filters fed into allpass filters.
 
 ### Design
 
-Our design is available here: https://www.figma.com/design/r7YWyrGmRyQdxd6UXErWNV/Cute-Delay
+Our design is available here: https://www.figma.com/design/kceh8qrj3WXWg7F5O2SG4p/Cute-Reverb
 
 ### Purchase
 
