@@ -21,7 +21,7 @@ public:
         this->feedback = jlimit(0.0f, 0.99f, feedback);
     }
 
-    void setDelaySamples(float delaySamples) {
+    auto setDelaySamples(float delaySamples) -> void {
         this->delaySamples = jlimit(1, this->buffer.getNumSamples() - 1, static_cast<int>(delaySamples));
     }
 

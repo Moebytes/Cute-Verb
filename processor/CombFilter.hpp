@@ -26,7 +26,7 @@ public:
         this->damping = jlimit(0.0f, 1.0f, damping);
     }
 
-    void setDelaySamples(float delaySamples) {
+    auto setDelaySamples(float delaySamples) -> void {
         this->delaySamples = jlimit(1, this->buffer.getNumSamples() - 1, static_cast<int>(delaySamples));
     }
 
